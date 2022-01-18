@@ -1,6 +1,12 @@
 ### Hi there 👋 I am Karthik Srinivas Bhallamudi
 
-## I am a student, web developer and an effective learner.
+## I am a Student, Web Developer and an Effective Learner.
+
+- 🔭 I’m currently working on improving my skills to make myself better.
+- 🌱 I’m currently learning web development.
+- 💖 Love to build web apps and code. 
+- 🥅 Contribute to more projects and learn something new everyday.
+- ⚡ Fun fact: Interested in Photography and play Piano.
 
 <!--
 **karthiksbh/karthiksbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
