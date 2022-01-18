@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Karthik Srinivas Bhallamudi
 
-# I am a student
+## I am a student, web developer and an effective learner.
 
 <!--
 **karthiksbh/karthiksbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
