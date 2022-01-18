@@ -1,4 +1,4 @@
-### Hi there 👋 I am Karthik Srinivas Bhallamudi
+### Hi there 👋 I am Karthik
 
 ## I am a Student, Web Developer and an Effective Learner.
 
