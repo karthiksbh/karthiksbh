@@ -15,3 +15,5 @@
 [![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=karthiksbh)](https://github.com/karthiksbh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksbh&layout=compact)](https://github.com/karthiksbh)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthiksbh)](https://git.io/streak-stats)
