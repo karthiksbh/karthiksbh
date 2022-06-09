@@ -9,6 +9,9 @@
 - ⚡ Fun fact: Interested in Photography and play Piano.
 
 <br>
+<br>
+
+[Visitor Count](https://profile-counter.glitch.me/karthiksbh/count.svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
